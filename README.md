@@ -32,6 +32,10 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 ![Haskell](https://img.shields.io/badge/Haskell-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
 
+## Visitor Count
+![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=views&url=https://api.github.com/users/Clyde0513)
+
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clydevillacrusis/)
