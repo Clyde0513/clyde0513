@@ -7,6 +7,14 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 - **Developer Tools**- VS Code, Linux WSL, Jupyter Notebooks, Git, Bash, Scikit-Learn 
 - **Technologies/Frameworks**- Google API, NodeJS, React, Vercel, Microsoft Office
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde0513&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=clyde0513&" height="150" alt="clyde0513" />
+</div>
+
+
+
+
 ## 💡 My Interests 
 
 - Machine learning
@@ -22,15 +30,23 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 
 - [Client's Portfolio](https://github.com/Clyde0513/anaPortfolio): A portfolio website I am developing based on my client's needs
 
-## Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
+## I Code with ...
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+</div>
 
 ## Visitor Count
 ![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=views&url=https://api.github.com/users/Clyde0513)
