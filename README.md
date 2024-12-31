@@ -1,6 +1,14 @@
 ## 👋 Hi there 
 Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics double major student at UCLA, passionate about AI and software development. Currently, I'm interning at UCLA Health, focusing on AI applications, OCR tools, and ChatGPT API to convert unorganized blood pressure data to organized, clean data.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clyde0513&label=Profile%20views&color=0e75b6&style=flat" alt="clyde0513" /> </p>
+
+## What I am doing currently
+
+- 🌱 I’m currently learning **Node.js, Deep Learning, Machine Learning, Semantics, Phonetics, Syntax II**
+- 💬 Ask me about **Vue, Python, Machine Learning, HTML, CSS, Kdramas/Valorant, Syntax and Morphology**
+- ⚡ Fun fact: **I'm Double Jointed!**
+  
 ## 🛠️ Tools I Use- 
 - **Languages**- Python, Javascript, CSS, HTML, C++, Java, Haskell
 - **Libraries**- NumPy, MatPlotLib, PyTorch, discord.py, Pytorch, Scipy, NLTK, Pandas, 
@@ -11,9 +19,6 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde0513&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=clyde0513&" height="150" alt="clyde0513" />
 </div>
-
-
-
 
 ## 💡 My Interests 
 
@@ -48,11 +53,8 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
   <img width="12" />
 </div>
 
-## Visitor Count
-![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=views&url=https://api.github.com/users/Clyde0513)
-
-
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clydevillacrusis/)
-[![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://clyde.at)
+- 📫 How to reach me **clyde0513@g.ucla.edu**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clydevillacrusis/)
+- [![Personal Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://clyde.at)
