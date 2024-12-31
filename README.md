@@ -20,7 +20,7 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 
 - [Hotel-Booking-Prediction](https://github.com/Clyde0513/Hotel-Booking-Prediction): A project utilizing machine learning and Random Forest Algorithm to predict hotel bookings.
 
-## Skills Badges
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
