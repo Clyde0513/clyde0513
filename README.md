@@ -35,7 +35,7 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 
 - [Client's Portfolio](https://github.com/Clyde0513/anaPortfolio): A portfolio website I am developing based on my client's needs
 
-- [Morphology: Taglish Paper](https://github.com/Clyde0513/Morphology-Paper): A Morphology Paper written about the morphological process of code-switching English and Tagalog
+- [Morphology: Taglish Paper](https://github.com/Clyde0513/Morphology-Paper/blob/main/Complete%20Paper_%20Morphology%20Research%20on%20Taglish.pdf): A Morphology Paper written about the morphological process of code-switching English and Tagalog
 
 ## I Code with ...
 <div align="left">
