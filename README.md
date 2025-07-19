@@ -30,8 +30,6 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 
 ## 🖥️ Featured Projects
 
-- [Wug-Bot-3.0](https://github.com/Clyde0513/Wug-Bot-3.0): A linguistic bot that translates English words or sentences into syntax, IPA, logic, morphological representations, and translates between 13 languages.
-
 - [FLIQ-Virtual-Hackathon](https://github.com/Clyde0513/FLIQ-Virtual-Hackathon): A project explores different quantum computing algorithms to try to enhance classical MLs on a specific drug-related dataset
 
 - [Healthcare Real Estate Leasing Prediction](https://github.com/Clyde0513/datafest_2025): This repository contains the analysis and predictive modeling work completed during DataFest 2025 at UCLA. Our team developed a machine learning approach to predict markets with high probability for future healthcare leasing activity. We're proud to have been selected as one of the finalists to present our work at the competition.
@@ -39,6 +37,8 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
 - [My client's tutoring website](https://github.com/Clyde0513/tutoring-website): A modern, professional tutoring website for Joshua Baer, built with Next.js, TypeScript, and Tailwind CSS
   
 - [Morphology: Taglish Paper](https://github.com/Clyde0513/Morphology-Paper/blob/main/Complete%20Paper_%20Morphology%20Research%20on%20Taglish.pdf): A Morphology Paper written about the morphological process of code-switching English and Tagalog
+
+- [Wug-Bot-3.0](https://github.com/Clyde0513/Wug-Bot-3.0): A linguistic bot that translates English words or sentences into syntax, IPA, logic, morphological representations, and translates between 13 languages.
 
 ## I Code with ...
 <div align="left">
