@@ -56,6 +56,13 @@ Hello! My name is Clyde Villacrusis and I'm a Computer Science and Linguistics d
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt ="next.js logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt ="typescript logo"/>
+  <img width="12" />
+
+  
+          
 </div>
 
 ## Connect with Me
