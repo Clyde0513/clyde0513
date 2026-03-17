@@ -60,7 +60,7 @@ I'm a Computer Science & Linguistics double major at UCLA (Class of 2026), build
 
 | Project | Description |
 |---|---|
-| [Fit4You](https://github.com/FitnessWorkoutApp/Fitica-website-info) | Cross-platform mobile fitness app |
+| [Fitica](https://github.com/FitnessWorkoutApp/Fitica-website-info) | Cross-platform mobile fitness app |
 | [FLIQ Virtual Hackathon](https://github.com/Clyde0513/FLIQ-Virtual-Hackathon) | Quantum ML for drug-induced autoimmunity — QNN-enhanced classical models |
 | [UCLA DataFest 2025](https://github.com/Clyde0513/datafest_2025) | Time-series ML model predicting healthcare real estate leasing activity — DataFest 2025 UCLA finalist |
 | [Tiwala Kapwa](https://devpost.com/software/tiwala) | Church community platform |
