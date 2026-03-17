@@ -63,7 +63,7 @@ I'm a Computer Science & Linguistics double major at UCLA (Class of 2026), build
 | [Fit4You](https://github.com/FitnessWorkoutApp/Fitica-website-info) | Cross-platform mobile fitness app |
 | [FLIQ Virtual Hackathon](https://github.com/Clyde0513/FLIQ-Virtual-Hackathon) | Quantum ML for drug-induced autoimmunity — QNN-enhanced classical models |
 | [UCLA DataFest 2025](https://github.com/Clyde0513/datafest_2025) | Time-series ML model predicting healthcare real estate leasing activity — DataFest 2025 UCLA finalist |
-| [Tiwala Kapwa](https://github.com/Clyde0513/tiwala-kapwa) | Church community platform |
+| [Tiwala Kapwa](https://devpost.com/software/tiwala) | Church community platform |
 | [Quantum Portfolio Optimization](https://github.com/Clyde0513/quantum-portfolio-optimization) | Hackathon project applying quantum algorithms to financial portfolio optimization |
 | [TriageFlow Care](https://github.com/Clyde0513/triageflow-care) | AI-powered healthcare triage system *(WIP)* |
 | [Wug Bot 3.0](https://github.com/Clyde0513/Wug-Bot-3.0) | Linguistic Discord bot — IPA, syntax trees, logic forms, morphology, 13 languages |
