@@ -87,8 +87,19 @@ I enjoy building practical, research-informed systems that connect strong engine
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde0513&layout=compact&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="Top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clyde0513&theme=github-dark-blue&hide_border=true" height="150" alt="GitHub streak stats" />
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyde0513&layout=compact&langs_count=6&theme=github_dark&hide_border=true" 
+  height="150" 
+  alt="Top languages" 
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=clyde0513&theme=github-dark-blue&hide_border=true" 
+  height="150" 
+  alt="GitHub streak stats" 
+/>
+
 </div>
 
 ---
