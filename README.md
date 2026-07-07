@@ -88,11 +88,15 @@ I enjoy building practical, research-informed systems that connect strong engine
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyde0513&layout=compact&langs_count=6&theme=github_dark&hide_border=true" 
-  height="150" 
-  alt="Top languages" 
-/>
+<a href="https://github.com/clyde0513">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyde0513&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=86400"
+    height="160"
+    alt="Top languages"
+  />
+</a>
+
+</div>
 
 <img 
   src="https://streak-stats.demolab.com?user=clyde0513&theme=github-dark-blue&hide_border=true" 
