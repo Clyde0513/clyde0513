@@ -2,7 +2,8 @@
 
 # Clyde Villacrusis
 
-### Computer Science & Linguistics @ UCLA  
+### Prev: Computer Science & Linguistics @ UCLA  
+### Current: Computer Science @ Georgia Tech (Online)
 **Full-Stack Engineering · Machine Learning · Quantum Computing · NLP**
 
 [![Website](https://img.shields.io/badge/clyde.at-000000?style=flat&logo=firefox&logoColor=white)](https://clyde.at)
